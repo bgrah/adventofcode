@@ -1,0 +1,23 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:lodash": "npm:lodash@4.17.21"
+    },
+    "npm": {
+      "lodash@4.17.21": {
+        "integrity": "sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==",
+        "dependencies": {}
+      }
+    }
+  },
+  "redirects": {
+    "https://deno.land/x/is_number/mod.ts": "https://deno.land/x/is_number@v1.6.1/mod.ts",
+    "https://esm.sh/lodash": "https://esm.sh/lodash@4.17.21"
+  },
+  "remote": {
+    "https://deno.land/x/is_number@v1.6.1/mod.ts": "b4a0e0ee95c43acfb664c489041af20e27edb8fded3ef71b9ab54b8e21e888d4",
+    "https://esm.sh/lodash@4.17.21": "cf3544d5159a7648b25ad21fcf8dbf08a1fbfb1415b70b4163da646ef83eec4a",
+    "https://esm.sh/v135/lodash@4.17.21/denonext/lodash.mjs": "f04a5db09228738fd8cd06b6d1eaf3463b1b639d1529cf11673c3ac7bda1b1a8"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "aoc": "deno run --allow-read 2023/01/code.ts",
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "lodash": "https://esm.sh/lodash"
+  }
+}
