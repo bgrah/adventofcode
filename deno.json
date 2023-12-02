@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "aoc": "deno run --allow-read 2023/01/code.ts",
+    "aoc": "deno run --allow-read 2023/03/code.ts",
     "dev": "deno run --watch main.ts"
   },
   "imports": {
